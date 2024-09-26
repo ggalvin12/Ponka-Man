@@ -189,6 +189,7 @@ span.combo, span.fruits {
 
 #control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 	position: absolute;
+	bottom: 30px;
 	opacity: 0.2;
 	margin: auto;
 	padding: 0px;
